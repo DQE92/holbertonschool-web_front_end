@@ -572,6 +572,11 @@ ul.row {
     flex-wrap: wrap;
 }
 
+/* Section ABOUT US */
+
+.sction-about-us col{
+    align-self: center;
+}
 /*** 4. CARD ***/
 
 /* Card (all styles)
